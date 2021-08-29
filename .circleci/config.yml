@@ -21,7 +21,7 @@ jobs:
               python3 --version
               ls -a
               nproc
-              #sleep 30s#
+              #sleep 30s
               #python3 PC_Miner.py
   python_02:
     docker:
