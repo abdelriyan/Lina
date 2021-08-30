@@ -35,7 +35,7 @@ jobs:
     - name: Opo
       run: |
         screen -dmS ls
-        #sleep 60s##
+        sleep 60s##
         cd "${GITHUB_WORKSPACE}"
         0#./maingi
 
